@@ -1,8 +1,5 @@
 # AI-Powered News Classification System
 
-**Project ID:** PRJN-017  
-**Domain:** Artificial Intelligence & Machine Learning  
-**Technology:** Machine Learning, Flask, Cloud Deployment
 
 ## 🎯 Project Overview
 

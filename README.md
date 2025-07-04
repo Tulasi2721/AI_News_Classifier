@@ -288,8 +288,6 @@ For questions, issues, or contributions:
 
 ---
 
-**Project ID:** PRJN-017  
-**Version:** 1.0.0  
-**Last Updated:** 2024-01-01
+
 
 Made with ❤️ for learning AI and Machine Learning
